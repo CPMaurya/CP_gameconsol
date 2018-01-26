@@ -13,4 +13,5 @@ But if you open file in notepad then Run on 'CMD' for window and 'TERMINAL' for 
 But first fall you go to perticular folder where save game file then open CMD or TEMINAL and write given command.
 #
 $ gcc gameconsol.c
+
 $ ./a.out
